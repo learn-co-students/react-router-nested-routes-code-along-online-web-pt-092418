@@ -11,5 +11,4 @@ const MovieShow = ({match, movies}) => {
     );
   }
 
-
 export default MovieShow;
