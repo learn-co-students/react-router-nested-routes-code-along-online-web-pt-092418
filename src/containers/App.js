@@ -14,7 +14,7 @@ class App extends Component {
       2: { id: 2, title: 'Se7en' },
       3: { id: 3, title: 'Inception' }
     }
-  }
+  };
 
   render() {
     return (
